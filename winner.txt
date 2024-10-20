@@ -1,0 +1,18 @@
+player 1
+yellow_5
+red_6
+red_8
+black_7
+red_9
+red_4
+black_10
+yellow_6
+black_9
+yellow_4
+black_2
+yellow_7
+red_10
+black_8
+yellow_1
+red_3
+number of cards: 16
