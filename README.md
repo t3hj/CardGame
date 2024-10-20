@@ -32,7 +32,7 @@ This is a Python-based two-player card game where players compete to win rounds 
    ```
 3. Run the program:
    ```bash
-   python main.py
+   python "NEA Bridging code.py"
    ```
 
 ### Future Improvements
