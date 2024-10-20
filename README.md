@@ -1,4 +1,4 @@
-# Tehj's Card Game
+# Two-Player Card Game
 
 ### Overview
 This is a Python-based two-player card game where players compete to win rounds based on the values and colors of their cards. The game determines a winner by comparing each card's number or color hierarchy, and keeps track of scores and game history using external files.
@@ -24,11 +24,11 @@ This is a Python-based two-player card game where players compete to win rounds 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/t3hj/CardGame.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd repo-name
+   cd CardGame
    ```
 3. Run the program:
    ```bash
